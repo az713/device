@@ -25,9 +25,9 @@ Datasheet for newbies
 -------------------------
 Начало новой ветки:
 
-git checkout master
-git pull
-git checkout -b название_нового_бранча
+\ngit checkout master
+\ngit pull
+\ngit checkout -b название_нового_бранча
 
 Коммит: 
 
