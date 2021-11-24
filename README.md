@@ -1,6 +1,7 @@
 # device
 
-DEVOPS-17, ПРОЕКТНАЯ РАБОТА 3\n
+DEVOPS-17, ПРОЕКТНАЯ РАБОТА 3
+========================
 Abay Zhumageldinov
 ========================
 Git workflow
