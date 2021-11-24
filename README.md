@@ -6,7 +6,7 @@ Abay Zhumageldinov
 ========================
 Git workflow
 -------------------------
-Расположение кода - code.py
+Расположение [кода](https://github.com/az713/device/blob/main/code.py)
 
 Main – это всегда актуальная версия существующего кода. 
 
@@ -24,24 +24,24 @@ git clone https://github.com/az713/device
 Datasheet for newbies
 -------------------------
 Начало новой ветки:
-
-\ngit checkout master
-\ngit pull
-\ngit checkout -b название_нового_бранча
+  
+git checkout master  
+git pull  
+git checkout -b название_нового_бранча  
 
 Коммит: 
 
-git add . добавь все в свою локальную репу 
+git add . добавь все в свою локальную репу  
 
-Сохранить - git commit -m "some commit message"
+Сохранить - git commit -m "some commit message"  
 
-Загрузить свою ветку в репозиторий - git push origin название_ветки
+Загрузить свою ветку в репозиторий - git push origin название_ветки  
 
-Название можно проверить в IDE или через git status
+Название можно проверить в IDE или через git status  
 
 Финальный мердж:
-
-git checkout master
-git pull origin master
-git merge название_твоей_ветки
-git push origin master
+   
+git checkout master  
+git pull origin master  
+git merge название_твоей_ветки  
+git push origin master 
